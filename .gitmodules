@@ -1,0 +1,4 @@
+[submodule "qemu-kernel"]
+	path = qemu-kernel
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/qemu-kernel.git
+	branch = lollipop-mr1-release

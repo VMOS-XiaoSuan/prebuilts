@@ -6,3 +6,159 @@
 	path = gradle-plugin
 	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gradle-plugin.git
 	branch = lollipop-mr1-release
+[submodule "ndk"]
+	path = ndk
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/ndk.git
+	branch = lollipop-mr1-release
+[submodule "devtools"]
+	path = devtools
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/devtools.git
+	branch = lollipop-mr1-release
+[submodule "misc"]
+	path = misc
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/misc.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/aarch64/aarch64-linux-android-4.8"]
+	path = gcc/darwin-x86/aarch64/aarch64-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"]
+	path = gcc/darwin-x86/aarch64/aarch64-linux-android-4.9
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/arm/arm-eabi-4.8"]
+	path = gcc/darwin-x86/arm/arm-eabi-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/arm/arm-linux-androideabi-4.8"]
+	path = gcc/darwin-x86/arm/arm-linux-androideabi-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/host/headers"]
+	path = gcc/darwin-x86/host/headers
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/host/headers.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/host/i686-apple-darwin-4.2.1"]
+	path = gcc/darwin-x86/host/i686-apple-darwin-4.2.1
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/mips/mips64el-linux-android-4.8"]
+	path = gcc/darwin-x86/mips/mips64el-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/mips/mips64el-linux-android-4.9"]
+	path = gcc/darwin-x86/mips/mips64el-linux-android-4.9
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9.git
+	branch = lollipop-mr1-release
+[submodule "tools"]
+	path = tools
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/tools.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/mips/mipsel-linux-android-4.8"]
+	path = gcc/darwin-x86/mips/mipsel-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/x86/x86_64-linux-android-4.8"]
+	path = gcc/darwin-x86/x86/x86_64-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/darwin-x86/x86/x86_64-linux-android-4.9"]
+	path = gcc/darwin-x86/x86/x86_64-linux-android-4.9
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9.git
+	branch = lollipop-mr1-release
+[submodule "android-emulator"]
+	path = android-emulator
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/android-emulator.git
+	branch = lollipop-mr1-release
+[submodule "eclipse"]
+	path = eclipse
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/eclipse.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/aarch64/aarch64-linux-android-4.8"]
+	path = gcc/linux-x86/aarch64/aarch64-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	path = gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/arm/arm-eabi-4.8"]
+	path = gcc/linux-x86/arm/arm-eabi-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/arm/arm-linux-androideabi-4.8"]
+	path = gcc/linux-x86/arm/arm-linux-androideabi-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"]
+	path = gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
+	path = gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
+	path = gcc/linux-x86/host/x86_64-w64-mingw32-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/mips/mips64el-linux-android-4.8"]
+	path = gcc/linux-x86/mips/mips64el-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/mips/mips64el-linux-android-4.9"]
+	path = gcc/linux-x86/mips/mips64el-linux-android-4.9
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/mips/mipsel-linux-android-4.8"]
+	path = gcc/linux-x86/mips/mipsel-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/x86/x86_64-linux-android-4.8"]
+	path = gcc/linux-x86/x86/x86_64-linux-android-4.8
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8.git
+	branch = lollipop-mr1-release
+[submodule "gcc/linux-x86/x86/x86_64-linux-android-4.9"]
+	path = gcc/linux-x86/x86/x86_64-linux-android-4.9
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9.git
+	branch = lollipop-mr1-release
+[submodule "sdk"]
+	path = sdk
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/sdk.git
+	branch = lollipop-mr1-release
+[submodule "libs/libedit"]
+	path = libs/libedit
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/libs/libedit.git
+	branch = lollipop-mr1-release
+[submodule "clang/darwin-x86/host/3.4"]
+	path = clang/darwin-x86/host/3.4
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/clang/darwin-x86/host/3.4.git
+	branch = lollipop-mr1-release
+[submodule "clang/darwin-x86/host/3.5"]
+	path = clang/darwin-x86/host/3.5
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/clang/darwin-x86/host/3.5.git
+	branch = lollipop-mr1-release
+[submodule "clang/linux-x86/3.1"]
+	path = clang/linux-x86/3.1
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/clang/linux-x86/3.1.git
+	branch = lollipop-mr1-release
+[submodule "clang/linux-x86/host/3.4"]
+	path = clang/linux-x86/host/3.4
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/clang/linux-x86/host/3.4.git
+	branch = lollipop-mr1-release
+[submodule "clang/linux-x86/host/3.5"]
+	path = clang/linux-x86/host/3.5
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/clang/linux-x86/host/3.5.git
+	branch = lollipop-mr1-release
+[submodule "maven_repo/android"]
+	path = maven_repo/android
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/maven_repo/android.git
+	branch = lollipop-mr1-release
+[submodule "python/darwin-x86/2.7.5"]
+	path = python/darwin-x86/2.7.5
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/python/darwin-x86/2.7.5.git
+	branch = lollipop-mr1-release
+[submodule "python/linux-x86/2.7.5"]
+	path = python/linux-x86/2.7.5
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/python/linux-x86/2.7.5.git
+	branch = lollipop-mr1-release

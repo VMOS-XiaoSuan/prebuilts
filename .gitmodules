@@ -2,3 +2,7 @@
 	path = qemu-kernel
 	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/qemu-kernel.git
 	branch = lollipop-mr1-release
+[submodule "gradle-plugin"]
+	path = gradle-plugin
+	url = git://mirrors.ustc.edu.cn/aosp/platform/prebuilts/gradle-plugin.git
+	branch = lollipop-mr1-release
